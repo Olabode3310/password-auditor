@@ -1,0 +1,2 @@
+# SHA-256 digest of "winter" (demonstration fixture)
+30c5461fc27b84f1f1ad0a83162a26882b22d11cdfa45978dd21c810056e8d0e

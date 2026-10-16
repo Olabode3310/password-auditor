@@ -1,0 +1,6 @@
+# Safe demonstration candidates only
+winter
+correcthorse
+letmein
+sunshine
+samplepass
